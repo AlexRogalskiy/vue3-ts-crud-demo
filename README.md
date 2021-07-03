@@ -11,5 +11,20 @@ Vue 3 + Typescript + Vite crud template project
 - Typescript
 - Vite
 
+## Usage
+
+install
+```shell
+yarn
+```
+develop
+```shell
+yarn dev
+```
+build
+```shell
+yarn build
+```
+
 ### Reference
 - [vue-3-crud](https://bezkoder.com/vue-3-crud/)
